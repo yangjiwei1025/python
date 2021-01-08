@@ -1,6 +1,7 @@
 # python
 # Python小測驗_100題
 # 1.Python入門
+
 ```
 1.要在螢幕輸出Hello, Python!  底下程式需使用哪個函數:
 
@@ -9,6 +10,7 @@ ________("Hello, Python!")
 
 (A) print   (B) printf   (C) printline   (D) printn
 ```
+
 ```
 2.要在程式碼中新增一行註解，底下程式需使用哪個符號:
 
@@ -18,6 +20,7 @@ print("Hello, Python!")
 
 (A)	/   (B) -   (C) #   (D) <!-->
 ```
+
 ```
 3.要新建一個變數名稱為school，並將變數值設定為ksu，底下程式需填入:
 
@@ -27,6 +30,7 @@ print("Hello, Python!")
 (A) (1)ksu，(2)school    (B) (1) school，(2) ksu  
 (C) (1)”ksu”，(2)school   (D) (1)ksu，(2)”school”  
 ```
+
 ```
 4.要檢查變數資料型別 底下程式需使用哪個函數:
 
@@ -37,6 +41,7 @@ print(______(y))
 (A) str   (B) sum   (C) int   (D)type
 
 ```
+
 ```
 5.試問以下程式執行後輸出什麼:
 
@@ -46,6 +51,7 @@ print(type(y))
 
 (A) <class 'int'>  (B) <class 'str'>  (C) <class 'float'>  (D) <class 'tuple'>
 ```
+
 ```
 6.要在程式碼中進行資料型態轉換 底下程式需使用哪個函數將x轉換成float:
 
@@ -55,6 +61,7 @@ ______(x)
 
 (A) long   (B) str   (C) float   (D)int
 ```
+
 ```
 7.要計算一個字串長度 底下程式需使用哪個函數:
 
@@ -64,6 +71,7 @@ print(___________(string1))
 
 (A) find   (B) len   (C) count   (D)replace
 ```
+
 ```
 8.試問以下程式執行後輸出什麼結果:
 
